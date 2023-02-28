@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: MAG Gönüllü Anketi Kişisel Veri Bilgileri
 permalink: /mag-anket
 ---
